@@ -45,4 +45,3 @@ Este proyecto está bajo la licencia MIT, lo que significa que puedes usar, modi
 
 ---
 
-Este README ahora no solo organiza la información, sino que también explica el propósito y la utilidad del repositorio de manera clara. Si necesitas que incluya algo más, solo dime. 😊
